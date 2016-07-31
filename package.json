@@ -1,0 +1,11 @@
+{
+  "name":"getting-started-with-electron-1.0",
+  "version":"0.1.0",
+  "description": "",
+  "main":"index.js",
+  "scripts": {
+    "start": "electron main.js"
+  },
+  "autor":"kyle Robinson Young <kyl@dontkry.com> (http://dontkry.com)",
+  "license": "MIT"
+}
